@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktoutiao_mob"]=self["webpackChunktoutiao_mob"]||[]).push([[84],{5084:function(n,t,e){e.r(t),e.d(t,{default:function(){return c}});var u=function(){var n=this,t=n._self._c;return t("div",{staticClass:"video_contain"},[n._v(" video ")])},o=[],i={name:"VideoIndex"},a=i,l=e(1001),s=(0,l.Z)(a,u,o,!1,null,null,null),c=s.exports}}]);
+//# sourceMappingURL=84.2a8442d5.js.map
